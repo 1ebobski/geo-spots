@@ -1,0 +1,25 @@
+.card {
+  background-color: white;
+  color: black;
+  max-width: 20rem;
+  margin: 0;
+  padding: 1rem;
+  border-radius: 1rem;
+  list-style: none;
+}
+
+.image {
+  width: 20rem;
+  border-radius: 1rem;
+}
+
+.title {
+  font-family: "Jet Brains Mono", Arial, sans-serif;
+  font-weight: bold;
+}
+
+.text {
+  font-family: "Jet Brains Mono", Arial, sans-serif;
+  font-weight: normal;
+  font-size: 0.75rem;
+}
